@@ -1,8 +1,0 @@
-{
-    "name": "bootstrap-colorpicker",
-    "description": "Bootstrap Colorpicker packaged for meteor",
-    "homepage": "https://github.com/nate-strauser/meteor-bootstrap-colorpicker",
-    "author": "Nate Strauser",
-    "version": "0.1.0",
-    "git": "https://github.com/nate-strauser/meteor-bootstrap-colorpicker.git"
-}
